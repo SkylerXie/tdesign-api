@@ -112796,6 +112796,43 @@
       ]
     },
     {
+      "id": 1735887548,
+      "platform_framework": [
+        "64"
+      ],
+      "component": "TabPanel",
+      "field_category": 1,
+      "field_name": "lazy",
+      "field_type": [
+        "4"
+      ],
+      "field_default_value": "false",
+      "field_enum": "",
+      "field_desc_zh": "是否启用选项卡懒加载",
+      "field_desc_en": "Enable tab lazy loading",
+      "field_required": 0,
+      "event_input": "",
+      "create_time": "2025-01-03 06:59:08",
+      "update_time": "2025-01-03 06:59:08",
+      "event_output": null,
+      "custom_field_type": null,
+      "syntactic_sugar": null,
+      "readonly": 1,
+      "html_attribute": 0,
+      "trigger_elements": "",
+      "deprecated": 0,
+      "version": "",
+      "test_description": null,
+      "support_default_value": 0,
+      "field_category_text": "Props",
+      "platform_framework_text": [
+        "Miniprogram"
+      ],
+      "field_type_text": [
+        "Boolean"
+      ]
+    },
+    {
       "id": 737,
       "platform_framework": [
         "1",
@@ -116103,6 +116140,43 @@
       "platform_framework_text": [
         "Vue(Mobile)",
         "React(Mobile)"
+      ],
+      "field_type_text": [
+        "String"
+      ]
+    },
+    {
+      "id": 1735887521,
+      "platform_framework": [
+        "64"
+      ],
+      "component": "Tabs",
+      "field_category": 1,
+      "field_name": "bottomLineMode",
+      "field_type": [
+        "1"
+      ],
+      "field_default_value": "fixed",
+      "field_enum": "fixed/auto/full",
+      "field_desc_zh": "激活下划线的模式",
+      "field_desc_en": null,
+      "field_required": 0,
+      "event_input": "",
+      "create_time": "2025-01-03 06:58:41",
+      "update_time": "2025-01-03 06:58:41",
+      "event_output": null,
+      "custom_field_type": null,
+      "syntactic_sugar": null,
+      "readonly": 1,
+      "html_attribute": 0,
+      "trigger_elements": "",
+      "deprecated": 0,
+      "version": "",
+      "test_description": null,
+      "support_default_value": 0,
+      "field_category_text": "Props",
+      "platform_framework_text": [
+        "Miniprogram"
       ],
       "field_type_text": [
         "String"
